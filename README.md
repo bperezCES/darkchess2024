@@ -1,6 +1,6 @@
 # Darkchess
 
-Chess with Fog of War. 
+Chess with Fog of War and you
 
 ![img](client/src/img/playdarkchess.png)
 
